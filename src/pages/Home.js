@@ -150,7 +150,7 @@ function Home() {
               <strong>Sobre mim</strong>
             </Typography>
             <Typography sx={bodyTextStyles}>
-              Sou Lucas Anchieta, desenvolvedor backend com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas. Trabalho com Node.js, Express, MySQL e Python, focando em soluções eficientes e automação. Estou cursando Análise e Desenvolvimento de Sistemas e sempre buscando aprender e crescer profissionalmente.
+              Sou Lucas Anchieta, desenvolvedor full stack mais voltado para o desenvolvimento backend com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas. Trabalho com Node.js, Express, MySQL e Python, focando em soluções eficientes e automação. Estou cursando Análise e Desenvolvimento de Sistemas e sempre buscando aprender e crescer profissionalmente.
             </Typography>
           </Box>
 

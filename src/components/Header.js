@@ -49,7 +49,7 @@ function Header() {
               Lucas Anchieta
             </Typography>
             <Typography variant="h5" sx={{ mt: 1,  fontFamily: 'Montserrat, sans-serif' }}>
-              Desenvolvedor Backend
+              Desenvolvedor Full Stack | Back End
             </Typography>
             <Box sx={{ display: 'flex', justifyContent: { xs: 'center', md: 'flex-start' }, pt: '20px', gap: '15px' }}>
               <Link href="https://github.com/LucasAnchietaAmancio" target="_blank" rel="noopener">

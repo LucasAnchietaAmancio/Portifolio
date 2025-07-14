@@ -104,6 +104,13 @@ function Home() {
       description: 'Simulação de catálogo de livros com busca via API, desenvolvido para prática de requisições HTTP, rotas e renderização de listas.',
       tecnologias: 'React, Javascript, API Rest',
       url: 'https://github.com/LucasAnchietaAmancio/-Bookstore'
+    },
+    {
+      name: 'Api Login',
+      img: '../image/Login.png',
+      description: 'Sistema de autenticação com JWT, desenvolvido para praticar conceitos de autenticação, rotas protegidas, armazenamento de tokens e integração entre Frontend e Backend. O projeto inclui cadastro, login e validações básicas de segurança com React, Node.js, Express e MySQL.',
+      tecnologias: 'React, Javascript, Express, Jwt',
+      url: 'https://github.com/LucasAnchietaAmancio/API-Login-JWT'
     }
   ];
 
